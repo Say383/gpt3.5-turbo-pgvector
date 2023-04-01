@@ -13,7 +13,7 @@
     "cheerio": "^1.0.0-rc.12",
     "common-tags": "^1.8.2",
     "daisyui": "^2.50.0",
-    "eslint-config-next": "13.1.1",
+    "eslint-config-next": "13.2.4",
     "eventsource-parser": "^0.0.5",
     "framer-motion": "^8.4.3",
     "gpt3-tokenizer": "^1.1.5",
