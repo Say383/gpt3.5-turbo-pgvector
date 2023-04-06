@@ -12,7 +12,7 @@
     "autoprefixer": "^10.4.13",
     "cheerio": "^1.0.0-rc.12",
     "common-tags": "^1.8.2",
-    "daisyui": "^2.50.0",
+    "daisyui": "^2.51.4",
     "eslint-config-next": "13.1.1",
     "eventsource-parser": "^0.0.5",
     "framer-motion": "^8.4.3",
